@@ -1,0 +1,26 @@
+{
+  "name": "siphon-service-description",
+  "version": "0.0.0",
+  "description": "Work with Siphon.IO service descriptions",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/siphon-io/siphon-service-description.git"
+  },
+  "keywords": [
+    "siphon.io",
+    "siphon",
+    "service",
+    "description",
+    "soa",
+    "resolve"
+  ],
+  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fknsrs.biz/)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/siphon-io/siphon-service-description/issues"
+  },
+  "dependencies": {
+    "request": "~2.27.0"
+  }
+}

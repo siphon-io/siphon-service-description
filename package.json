@@ -1,6 +1,6 @@
 {
   "name": "siphon-service-description",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Work with Siphon.IO service descriptions",
   "main": "index.js",
   "repository": {
